@@ -14,9 +14,7 @@ un
 codigo
 ```
 
-The ML-Agents Toolkit contains several components:
-
-- Unity package ([`com.unity.ml-agents`](../com.unity.ml-agents/)) contains the
+- El enlace a  ([`este url`](../com.unity.ml-agents/)) contains the
 
 
 
