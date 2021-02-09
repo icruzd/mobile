@@ -18,8 +18,7 @@ An Starting  point using mobile technologies mainly in Android
 - un 
 - codigo 
 
-- El enlace a  ([`este url`](../com.unity.ml-agents/)) contains the
-
+- En este enlace a  ([`este url`](../com.unity.ml-agents/)) encontrarás
 
 
 
