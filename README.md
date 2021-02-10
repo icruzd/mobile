@@ -1,5 +1,5 @@
 # mobile
-An Starting  point using mobile technologies mainly in Android
+A Starting  point using mobile technologies mainly in Android
 
 **The main goal is to provide a place where you can find resources to learn and to use as reference for Mobile Apps Development**
 
