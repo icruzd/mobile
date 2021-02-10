@@ -1,24 +1,23 @@
 # mobile
 An Starting  point using mobile technologies mainly in Android
 
-**Our main goal is to provide a place to use as reference for Mobile Apps**
+**The main goal is to provide a place where you can find resources to learn and to use as reference for Mobile Apps Development**
 
-*ghfghfgh*
+*I hope these resources may be useful*
 
-*jkhjkhjk*
->dkfjkdfjkdjfksdjlfsdlfklsdkflsddf
+>There no other method to learn, than doing
 
 ```
-- este es
-- un 
-- codigo
+- Install visual studio Code or Android Studio
+- Install the necessary packages or plugins
+- Create or generate the project
+- Test the examples
+- Modify the examples and see results
+- Resolve problems that you know how to solve
+- Resolve problems that challenge you
 ```
 
-- este no es
-- un 
-- codigo 
-
-- En este enlace a  ([`este url`](../com.unity.ml-agents/)) encontrarás
+- Follow this ([`link`](https://github.com/icruzd/mobile/)) to start 
 
 
 
