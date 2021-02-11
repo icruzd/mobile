@@ -17,8 +17,11 @@ A Starting  point using mobile technologies mainly in Android
 - Resolve problems that challenge you
 ```
 
-- Follow this ([`link`](https://github.com/icruzd/mobile/)) to start 
 
+- The content is divided in three parts:
+  - [`console app`](../ml-agents/) contains just dart code that you can run using ```dart run codefile.dart```.
+  - [`mobile apps`](../ml-agents-envs/) contains flutter apps
+  
 
 
 
